@@ -1,0 +1,22 @@
+{
+  "name": "myntoriginal",
+  "version": "1.0.0",
+  "description": "Alex's companion protogen, the original, JS version",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexArcticFox/MyntOriginal.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexArcticFox/MyntOriginal/issues"
+  },
+  "homepage": "https://github.com/AlexArcticFox/MyntOriginal#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
