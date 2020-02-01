@@ -1,7 +1,7 @@
 const { Client } = require('discord.js');
 const { token } = require('../config.json');
-const commandHandler = require('./core/handlers/commandHandler.js');
-const eventHandler = require('.//core/handlers/eventHandler.js');
+const commandHandler = require('./core/handlers/CommandHandler.js');
+const eventHandler = require('./core/handlers/EventHandler.js');
 
 const client = new Client;
 
