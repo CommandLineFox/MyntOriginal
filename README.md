@@ -1,2 +1,2 @@
-# MyntOriginal
-Alex's companion protogen, the original, JS version
+# Mynt Original
+Alex's old code in JS for Mynt
